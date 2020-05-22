@@ -57,7 +57,8 @@ bool CheckPassWord(string password)
 int main()
 {
 	string password = "VGakki520521"; //Original password
-	cout << "Password up to 50 digits.\nPlease enter 6 digits for password（VGakki520521)：\n";
+	cout << "Password up to 50 digits.\nMaximum attempt number: "
+	     <<NumAttempt<<"\nPlease enter 6 digits for password（VGakki520521)：\n";
 	if (CheckPassWord(password) != true)
 		return 0;
 	return 1;
