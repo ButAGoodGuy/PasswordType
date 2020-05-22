@@ -6,7 +6,7 @@
 
 using namespace std;
 
-/*Enter the password with "*", 
+/*Enter the password with *, 
 you can try up to NumAttempt times*/
 bool CheckPassWord(string password)
 {
