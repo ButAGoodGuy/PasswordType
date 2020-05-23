@@ -1,2 +1,2 @@
-# PasswordV2
+# PasswordType
 He is so great!
