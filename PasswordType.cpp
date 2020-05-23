@@ -1,4 +1,8 @@
-﻿#include "pch.h"
+// Project:PasswordType 
+// Author: Nick GUO
+// Date:   May 21,2020
+// Version:V2.0
+#include "pch.h"
 #include <iostream>
 #include <cstring>
 #include <stdio.h>
